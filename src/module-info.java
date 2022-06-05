@@ -1,0 +1,2 @@
+module jenkins_test {
+}
